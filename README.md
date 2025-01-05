@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0062-unique-paths) |
 ## Greedy
 |  |
 | ------- |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
