@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0493-reverse-pairs](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
