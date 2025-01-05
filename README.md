@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0258-add-digits) |
 ## Combinatorics
 |  |
 | ------- |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
