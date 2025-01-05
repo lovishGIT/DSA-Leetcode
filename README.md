@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0299-bulls-and-cows) |
+| [0451-sort-characters-by-frequency](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0415-add-strings](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0415-add-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0299-bulls-and-cows) |
+| [0451-sort-characters-by-frequency](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -306,4 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0278-first-bad-version) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
