@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0299-bulls-and-cows) |
+| [0415-add-strings](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0415-add-strings) |
 ## Combinatorics
 |  |
 | ------- |
