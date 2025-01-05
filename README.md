@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0051-n-queens) |
 | [0493-reverse-pairs](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0051-n-queens) |
 ## String Matching
 |  |
 | ------- |
