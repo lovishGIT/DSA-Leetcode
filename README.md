@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0493-reverse-pairs](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0322-coin-change) |
 ## Greedy
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0322-coin-change) |
 ## Counting
 |  |
 | ------- |
