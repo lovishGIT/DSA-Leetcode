@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
