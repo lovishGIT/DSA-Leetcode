@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -247,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
