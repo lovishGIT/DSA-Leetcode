@@ -4,7 +4,6 @@ class Solution {
         int am10 = 0;
         int am20 = 0;
         for(int i: bills) {
-            System.out.println(am05 + " " + am10 + " " + am20);
             if(i == 5) am05 += 1;
             else if(i == 10) {
                 am05 -= 1;
