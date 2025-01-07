@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-apply-discount-to-prices](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2373-apply-discount-to-prices) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2887-sort-vowels-in-a-string](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3379-score-of-a-string](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3379-score-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
