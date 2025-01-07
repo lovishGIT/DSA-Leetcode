@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0415-add-strings](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 ## Sliding Window
 |  |
 | ------- |
