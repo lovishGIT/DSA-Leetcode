@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2892-check-if-array-is-good](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3164-last-visited-integers](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3164-last-visited-integers) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Dynamic Programming
 |  |
 | ------- |
