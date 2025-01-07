@@ -5,7 +5,6 @@ class Solution {
         while(i <= maxLen) {
             if(i == nums.length-1) return true;
             maxLen = Math.max(maxLen, nums[i] + i);
-            System.out.print(maxLen + " ");
             i++;
         }
         return false;
