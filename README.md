@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
