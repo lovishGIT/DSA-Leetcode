@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3164-last-visited-integers](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3164-last-visited-integers) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3533-snake-in-matrix](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3533-snake-in-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2887-sort-vowels-in-a-string](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3379-score-of-a-string) |
+| [3533-snake-in-matrix](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3533-snake-in-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3164-last-visited-integers](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3164-last-visited-integers) |
+| [3533-snake-in-matrix](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3533-snake-in-matrix) |
 ## Combinatorics
 |  |
 | ------- |
