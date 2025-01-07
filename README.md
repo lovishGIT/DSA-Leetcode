@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1791-richest-customer-wealth](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0921-spiral-matrix-iii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [1791-richest-customer-wealth](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
