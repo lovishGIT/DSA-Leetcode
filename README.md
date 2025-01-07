@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2035-count-sub-islands) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2892-check-if-array-is-good](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2892-check-if-array-is-good) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1904-second-largest-digit-in-a-string](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2892-check-if-array-is-good](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2892-check-if-array-is-good) |
 ## String
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2892-check-if-array-is-good](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2892-check-if-array-is-good) |
 ## Stack
 |  |
 | ------- |
