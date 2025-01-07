@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2373-apply-discount-to-prices](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2373-apply-discount-to-prices) |
 ## Sliding Window
 |  |
 | ------- |
