@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2892-check-if-array-is-good](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2892-check-if-array-is-good) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1904-second-largest-digit-in-a-string](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2892-check-if-array-is-good](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2892-check-if-array-is-good) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## String
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0890-lemonade-change) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Trie
 |  |
 | ------- |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Prefix Sum
 |  |
 | ------- |
