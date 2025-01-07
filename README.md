@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2173-number-of-valid-words-in-a-sentence](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
 ## Sliding Window
 |  |
 | ------- |
