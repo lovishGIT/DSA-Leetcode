@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2035-count-sub-islands](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2035-count-sub-islands) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
 | ------- |
