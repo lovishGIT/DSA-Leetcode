@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2892-check-if-array-is-good](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3164-last-visited-integers](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3164-last-visited-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0874-backspace-string-compare) |
 | [0921-spiral-matrix-iii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0921-spiral-matrix-iii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3164-last-visited-integers](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3164-last-visited-integers) |
 ## Combinatorics
 |  |
 | ------- |
