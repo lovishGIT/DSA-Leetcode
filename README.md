@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/lovishGIT/DSA-Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Recursion
 |  |
 | ------- |
