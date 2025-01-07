@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0605-can-place-flowers) |
 | [0797-rabbits-in-forest](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0890-lemonade-change) |
+| [0921-spiral-matrix-iii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0921-spiral-matrix-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0921-spiral-matrix-iii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0921-spiral-matrix-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0874-backspace-string-compare) |
+| [0921-spiral-matrix-iii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0921-spiral-matrix-iii) |
 ## Combinatorics
 |  |
 | ------- |
