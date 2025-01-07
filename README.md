@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2373-apply-discount-to-prices](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2373-apply-discount-to-prices) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0890-lemonade-change) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Trie
 |  |
 | ------- |
