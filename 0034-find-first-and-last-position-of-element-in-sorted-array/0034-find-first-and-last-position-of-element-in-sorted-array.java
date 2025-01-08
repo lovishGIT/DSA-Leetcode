@@ -39,8 +39,6 @@ class Solution {
         int lb = low_bound(nums, target);
         int ub = up_bound(nums, target);
 
-        // System.out.println(lb + " " + ub);
-
         int[] answer = new int[2];
 
         answer[0] = -1;
