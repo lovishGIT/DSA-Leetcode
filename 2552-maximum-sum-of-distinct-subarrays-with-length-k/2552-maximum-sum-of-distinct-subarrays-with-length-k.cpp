@@ -9,15 +9,15 @@ public:
         while(i < nums.size()) {
 
             if(!st.contains(nums[i])) {
-                if(st.size() == k) {
-                    sum -= nums[j];
-                    st.erase(nums[j]);
-                    j++;
-                }
                 sum += nums[i];
                 st.insert(nums[i]);
                 i++;
             } else {
+                sum -= nums[j];
+                st.erase(nums[j]);
+                j++;
+            }
+            if(st.size() == k + 1) {
                 sum -= nums[j];
                 st.erase(nums[j]);
                 j++;
