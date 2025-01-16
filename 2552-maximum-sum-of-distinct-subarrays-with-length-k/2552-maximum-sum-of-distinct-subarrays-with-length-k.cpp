@@ -6,21 +6,20 @@ public:
         long long sum = 0;
         int i = 0;
         int j = 0;
-        while(i < nums.size()) {
-
-            if(!st.contains(nums[i])) {
-                sum += nums[i];
-                st.insert(nums[i]);
-                i++;
-            } else {
-                sum -= nums[j];
-                st.erase(nums[j]);
+        while(j < nums.size()) {
+            if(!st.contains(nums[j])) {
+                sum += nums[j];
+                st.insert(nums[j]);
                 j++;
+            } else {
+                sum -= nums[i];
+                st.erase(nums[i]);
+                i++;
             }
             if(st.size() == k + 1) {
-                sum -= nums[j];
-                st.erase(nums[j]);
-                j++;
+                sum -= nums[i];
+                st.erase(nums[i]);
+                i++;
             }
             if(st.size() == k) {
                 answer = max(answer, sum);
