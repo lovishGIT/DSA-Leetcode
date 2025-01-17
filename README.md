@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1833-find-the-highest-altitude](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2035-count-sub-islands](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2035-count-sub-islands) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Number Theory
 |  |
