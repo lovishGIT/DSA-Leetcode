@@ -3,8 +3,8 @@ class Solution {
         int sum = 0;
         int maxi = 0;
 
-        for(int i = 0; i < gain.length; i++) {
-            sum += gain[i];
+        for(int i : gain) {
+            sum += i;
             maxi = Math.max(maxi, sum);
         }
 
