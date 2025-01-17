@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0890-lemonade-change) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
