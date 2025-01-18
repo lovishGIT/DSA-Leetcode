@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0792-binary-search) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0605-can-place-flowers) |
 | [0797-rabbits-in-forest](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0890-lemonade-change) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0561-array-partition) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2887-sort-vowels-in-a-string](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -449,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0547-number-of-provinces) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
