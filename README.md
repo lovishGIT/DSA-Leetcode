@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0792-binary-search) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1904-second-largest-digit-in-a-string](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1833-find-the-highest-altitude) |
