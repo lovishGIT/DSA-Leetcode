@@ -7,7 +7,6 @@ public:
 
         while(first <= last) {
             int mid = first + (last - first) / 2;
-
             if(mid <= x / mid) first = mid + 1;
             else last = mid - 1;
         }
