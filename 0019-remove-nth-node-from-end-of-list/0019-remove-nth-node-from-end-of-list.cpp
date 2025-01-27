@@ -7,7 +7,6 @@ public:
             size++;
             temp = temp -> next;
         }
-
         delete temp;
 
         if(size==1) return NULL;
@@ -20,7 +19,6 @@ public:
         }
 
         if(head->next == NULL) return ans;
-
         head -> next = head->next->next;
 
         return ans;
