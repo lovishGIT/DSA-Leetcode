@@ -8,6 +8,8 @@ public:
             temp = temp -> next;
         }
 
+        delete temp;
+
         if(size==1) return NULL;
         if(size==n) return head->next;
 
