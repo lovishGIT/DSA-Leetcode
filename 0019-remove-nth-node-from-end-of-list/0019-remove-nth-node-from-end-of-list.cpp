@@ -8,10 +8,6 @@ public:
             temp = temp -> next;
         }
 
-        if(size < n) {
-            n = n % size;
-        }
-
         if(size==1) return NULL;
         if(size==n) return head->next;
 
