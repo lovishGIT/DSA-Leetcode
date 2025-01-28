@@ -18,13 +18,11 @@ public:
         if(temp.size() == 0) {
             for(auto j: chars) {
                 string s(1, j);
-                cout << s << endl;
                 answers.push_back(s);
             }
         } else {
             for(auto i: temp) {
                 for(auto j: chars) {
-                    cout << i << " " << j << endl;
                     answers.push_back(i + "" + j);
                 }
             }
