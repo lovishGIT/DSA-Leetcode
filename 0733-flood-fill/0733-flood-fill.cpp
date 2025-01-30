@@ -17,7 +17,7 @@ public:
             int currC = que.front().second;
             que.pop();
 
-            for(int i =0; i < 4; i++) {
+            for(int i = 0; i < 4; i++) {
                 int nr = currR + changeRow[i];
                 int nc = currC + changeCol[i];
 
