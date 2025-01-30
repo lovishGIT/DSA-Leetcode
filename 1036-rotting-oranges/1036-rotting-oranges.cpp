@@ -3,7 +3,6 @@ public:
     int orangesRotting(vector<vector<int>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
-
         // {{r, c}, t}
         queue<pair<pair<int, int>, int>> que;
         int vis[n][m];
@@ -31,8 +30,6 @@ public:
             int r = que.front().first.first;
             int c = que.front().first.second;
             int t = que.front().second;
-
-            cout << "{" << r << ", " << c << "}, " << t << endl;
 
             time = max(time, t);
             que.pop();
