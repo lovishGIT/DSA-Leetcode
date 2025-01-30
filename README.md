@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [1036-rotting-oranges](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1036-rotting-oranges) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0921-spiral-matrix-iii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0921-spiral-matrix-iii) |
+| [1036-rotting-oranges](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2035-count-sub-islands](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2035-count-sub-islands) |
 ## Simulation
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2035-count-sub-islands) |
 ## Counting
 |  |
