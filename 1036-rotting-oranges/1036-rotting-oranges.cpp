@@ -7,6 +7,7 @@ public:
         queue<pair<pair<int, int>, int>> que;
         int vis[n][m];
         int cntFresh = 0;
+
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < m; j++) {
                 if(grid[i][j] == 2) {
@@ -48,7 +49,7 @@ public:
             }
         }
 
-        if(cntFresh != 0) return -1;
+        if(cntFresh > 0) return -1;
         return time;
     }
 };
