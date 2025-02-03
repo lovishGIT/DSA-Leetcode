@@ -3,7 +3,8 @@ public:
     int getThreshold(vector<int>& nums, int div) {
         int threshold = 0;
         for(auto i: nums) {
-            threshold += (int) ceil((double) i / (double) div);
+            threshold += i / div;
+            if(i % div != 0) threshold += 1;
         }
 
         return threshold;
