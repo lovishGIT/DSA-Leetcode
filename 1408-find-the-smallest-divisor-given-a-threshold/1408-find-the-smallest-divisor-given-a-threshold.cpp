@@ -6,12 +6,9 @@ public:
             threshold += i / div;
             if(i % div != 0) threshold += 1;
         }
-
         return threshold;
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
-        if(threshold < nums.size()) return -1;
-
         int first = 1;
         int last = *max_element(nums.begin(), nums.end());
 
