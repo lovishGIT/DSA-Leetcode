@@ -13,7 +13,6 @@ public:
             else right = mid - 1;
         }
 
-        if(right == -1) return k;
-        return k + 1 + right;
+        return k + left;
     }
 };
