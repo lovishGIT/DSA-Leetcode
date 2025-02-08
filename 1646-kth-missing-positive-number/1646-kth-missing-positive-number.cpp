@@ -7,9 +7,9 @@ public:
 
         while(left <= right) {
             int mid = left + (right - left) / 2;
-            int missTillNow = arr[mid] - 1 - mid;
+            int missTillNow = arr[mid] - mid;
             
-            if(missTillNow < k) left = mid + 1;
+            if(missTillNow <= k) left = mid + 1;
             else right = mid - 1;
         }
 
