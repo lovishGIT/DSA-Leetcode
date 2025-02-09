@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0792-binary-search) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0605-can-place-flowers) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1603-running-sum-of-1d-array) |
