@@ -31,7 +31,7 @@ public:
             }
 
             if(cnt == ind1) ele1 = ele;
-            else if(cnt == ind2) ele2 = ele;
+            else if(cnt == ind2) { ele2 = ele; break;}
             cnt++;
         }
 
