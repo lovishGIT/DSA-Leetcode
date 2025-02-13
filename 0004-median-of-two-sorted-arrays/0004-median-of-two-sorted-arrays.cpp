@@ -1,45 +1,43 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& A, vector<int>& B) {
-        int n= A.size();
-        int m= B.size();
+        int n1 = A.size();
+        int n2 = B.size();
+        if(n1 > n2) return findMedianSortedArrays(B, A);
 
-        int ind2 = (n+m) / 2;
-        int ind1 = ind2 - 1;
+        int n = (n1 + n2 + 1) / 2;
 
-        int ele1 = INT_MIN;
-        int ele2 = INT_MIN;
-        
-        int cnt = 0;
-        int i = 0, j = 0;
-        while(cnt < n+m) {
-            int ele = -1;
-            if(i < n && j < m) {
-                if(A[i] <= B[j]) {
-                    ele = A[i];
-                    i++;
-                } else {
-                    ele = B[j];
-                    j++;
-                }
-            } else if(i < n) {
-                ele = A[i];
-                i++;
+        int first = 0;
+        int last = n1;
+
+        while(first <= last) {
+            int mid1 = first + (last - first) / 2;
+            int mid2 = n - mid1;
+            // get mid elements from A
+
+            int left1 = INT_MIN, left2 = INT_MIN;
+            int right1 = INT_MAX, right2 = INT_MAX;
+
+            if(mid1 > 0) left1 = A[mid1 - 1];
+            if(mid1 < n1) right1 = A[mid1];
+
+            if(mid2 > 0) left2 = B[mid2 - 1];
+            if(mid2 < n2) right2 = B[mid2];
+            
+            
+            if(left1 <= right2 && left2 <= right1) {
+                // cout << first << " " << mid1 << " " << mid2 << " " << last; 
+                first = max(left1, left2);
+                last = min(right1, right2);
+                if((n1 + n2) % 2 != 0) return first;
+                return (first + last) / 2.0;
+            } else if(left1 <= right2) {
+                first = mid1 + 1;
             } else {
-                ele = B[j];
-                j++;
+                last = mid1 - 1;
             }
-
-            if(cnt == ind1) ele1 = ele;
-            else if(cnt == ind2) { ele2 = ele; break;}
-            cnt++;
         }
-
-        // cout << ind1 << " -> " << ele1 << " && " << ind2 << " -> " << ele2 << endl;
-        if((n+m) %2 == 0) {
-            return (ele1+ele2) / 2.0;
-        } else {
-            return ele2;
-        }
+        
+        return 0;
     }
 };
