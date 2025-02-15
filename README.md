@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2035-count-sub-islands](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2035-count-sub-islands) |
+| [2047-find-a-peak-element-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2047-find-a-peak-element-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2035-count-sub-islands](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2035-count-sub-islands) |
+| [2047-find-a-peak-element-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Simulation
 |  |
 | ------- |
