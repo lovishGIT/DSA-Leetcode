@@ -24,7 +24,6 @@ public:
             bool cond1 = mid == 0 || (mat[maxInd][mid] > mat[maxInd][mid-1]);
             bool cond2 = mid == c - 1 || (mat[maxInd][mid] > mat[maxInd][mid+1]);
 
-            // cout << mid << " " << cond1 << " " << cond2 << endl;
             if(cond1 && cond2) {
                 return {maxInd, mid};
             } else if(cond1) {
@@ -37,7 +36,3 @@ public:
         return {-1, -1};
     }
 };
-
-// 25 37 23 37 19
-// 45 19  2 43 26
-// 18  1 37 44 50
