@@ -16,7 +16,6 @@ public:
             else if(matrix[mid/nc][mid%nc] > target) last = mid - 1;
             else first = mid + 1;
         }
-
         return false;
     }
 };
