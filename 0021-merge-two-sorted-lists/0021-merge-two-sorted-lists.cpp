@@ -15,10 +15,10 @@ public:
         ListNode* ansStore = ans;
         while(l1!= nullptr && l2 != nullptr) {
             if(l1->val <= l2->val) {
-                ans->next = new ListNode(l1->val);
+                ans->next = l1;
                 l1 = l1->next;
             } else {
-                ans->next = new ListNode(l2->val);
+                ans->next = l2;
                 l2 = l2->next;
             }
             ans = ans->next;
