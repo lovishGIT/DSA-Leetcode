@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
