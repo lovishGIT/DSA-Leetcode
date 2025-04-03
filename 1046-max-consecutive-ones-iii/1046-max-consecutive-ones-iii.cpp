@@ -6,16 +6,15 @@ public:
 
         int numberOfZeros = 0;
         int lengthOfLongest = 0;
+
         while(j < nums.size()) {
-            if(nums[j] == 0) {
-                numberOfZeros++;
-                while(numberOfZeros > k) {
-                    numberOfZeros = nums[i] == 0 ? numberOfZeros - 1 : numberOfZeros;
-                    i++;
-                }
+            if(nums[j] == 0) numberOfZeros++;
+            if(numberOfZeros > k) {
+                numberOfZeros = nums[i] == 0 ? numberOfZeros - 1 : numberOfZeros;
+                i++;
             }
             // cout << j << " - " << i << endl;
-            lengthOfLongest = max(lengthOfLongest, j-i+1);
+            if(numberOfZeros <= k) lengthOfLongest = max(lengthOfLongest, j-i+1);
             j++;
         }
 
