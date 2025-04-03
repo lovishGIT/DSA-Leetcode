@@ -15,7 +15,7 @@ public:
         if(root == nullptr) return 0;
 
         int x = sum * 10 + root->val;
-        cout << x << endl;
+        // cout << x << endl;
 
         if(root->left == nullptr && root->right == nullptr) return x;
 
