@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0299-bulls-and-cows) |
+| [0424-longest-repeating-character-replacement](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0299-bulls-and-cows) |
 | [0415-add-strings](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0541-reverse-string-ii) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lovishGIT/DSA-Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
