@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0547-number-of-provinces) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
