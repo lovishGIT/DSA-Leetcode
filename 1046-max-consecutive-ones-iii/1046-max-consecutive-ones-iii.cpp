@@ -6,7 +6,7 @@ public:
 
         int numberOfZeros = 0;
         int lengthOfLongest = 0;
-        while( j < nums.size() ) {
+        while(j < nums.size()) {
             if(nums[j] == 0) {
                 numberOfZeros++;
                 while(numberOfZeros > k) {
