@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0874-backspace-string-compare) |
+| [1078-remove-outermost-parentheses](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1524-string-matching-in-an-array](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/lovishGIT/DSA-Leetcode/tree/master/0874-backspace-string-compare) |
+| [1078-remove-outermost-parentheses](https://github.com/lovishGIT/DSA-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
